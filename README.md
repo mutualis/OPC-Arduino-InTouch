@@ -1,1 +1,2 @@
-# OPC-Arduino-InTouch
+# OPC Arduino InTouch
+Program ini ditujukan untuk komunikasi OPC Arduino dengan _software_ Wonderware InTouch. _Software_ Wonderware InTouch diperuntukan untuk menampilkan atau memonitoring status motor dc yang dikontrol oleh Arduino Uno dengan, yaitu keadaan _clockwise_, _counterclockwise_, kecepatan, dan tegangan aktual motor yang diterima. Untuk mengontol arah putar dan kecepatan motor digunakan driver L298N dengan mengatur polaritas dan _duty cycle_ output Arduino.
